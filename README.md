@@ -12,8 +12,7 @@
 
 <h3>Technologies/Frameworks</h3>
 <div id="frameworks-badges">
-
-
+<img src="https://img.shields.io/badge/svelte-%23323330.svg?style=for-the-badge&logo=svelte" alt="Svelte Badge"/>
 </div>
 <!--
 **Ergalla/Ergalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
