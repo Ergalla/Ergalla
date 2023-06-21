@@ -16,6 +16,13 @@
 </div>
 
 <h3>OS</h3>
+<div id="os-badges">
+<img src="https://img.shields.io/badge/windows-%23323330.svg?style=for-the-badge&logo=windows" alt="Windows Badge"/>
+<img src="https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux" alt="Linux Badge"/>
+</div>
+
+
+
 <!--
 **Ergalla/Ergalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
