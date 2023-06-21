@@ -4,7 +4,10 @@
 
 <h3>Languages</h3>
 <div id="badges">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
+<img src="https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5" alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3" alt="CSS3 Badge"/>
+
 </div>
 <!--
 **Ergalla/Ergalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
