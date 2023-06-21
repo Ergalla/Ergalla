@@ -5,8 +5,8 @@
 <h3>Languages</h3>
 <div id="badges">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
-<img src="https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5" alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3 Badge"/>
+<img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5" alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3 Badge"/>
 
 </div>
 <!--
