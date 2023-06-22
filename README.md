@@ -1,4 +1,4 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1004&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+nice+to+meet+you!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1004&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+nice+to+meet+you!" alt="Typing SVG" /></a></h1>
 <h4 align="center">Gorgeous Ergalla from Russia 🇷🇺</h3>
 <p align="center">I live, i study, i work :D</p>
 
