@@ -2,6 +2,7 @@
 <div id="badges">
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript Badge"/></a>
 <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/go-%23323330?style=for-the-badge&logo=go" alt="Go Badge"/></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5" alt="HTML5 Badge"/></a>
 <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3 Badge"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/lua-%23323330.svg?style=for-the-badge&logo=lua&logoColor=000080" alt="Lua Badge"/></a>
@@ -9,6 +10,7 @@
 
 <h3>Technologies/Frameworks</h3>
 <div id="frameworks-badges">
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-%23323330?style=for-the-badge&logo=nextdotjs" alt="Next.js Badge"/></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react" alt="React Badge"/></a>
 <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/svelte-%23323330.svg?style=for-the-badge&logo=svelte" alt="Svelte Badge"/></a>
 </div>
