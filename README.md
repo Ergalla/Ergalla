@@ -1,6 +1,3 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1004&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+nice+to+meet+you!" alt="Typing SVG" /></a></h1>
-<h4 align="center">Gorgeous Ergalla from Russia 🇷🇺</h3>
-
 <h3>Languages</h3>
 <div id="badges">
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript Badge"/></a>
