@@ -12,6 +12,7 @@
 <div id="frameworks-badges">
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-%23323330?style=for-the-badge&logo=nextdotjs" alt="Next.js Badge"/></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react" alt="React Badge"/></a>
+<a href="https://gin-gonic.com/"><img src="https://img.shields.io/badge/gin-%23323330?style=for-the-badge&logo=gin" alt="Gin Badge"/></a>
 <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/svelte-%23323330.svg?style=for-the-badge&logo=svelte" alt="Svelte Badge"/></a>
 </div>
 
